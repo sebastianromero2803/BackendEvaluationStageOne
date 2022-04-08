@@ -1,0 +1,16 @@
+C:\Users\SEBASTIAN ROMERO\LeanTech\Backend Training\Projects\BackendEvaluationStageOne\bin\Debug\net5.0\BackendEvaluationStageOne.exe
+C:\Users\SEBASTIAN ROMERO\LeanTech\Backend Training\Projects\BackendEvaluationStageOne\bin\Debug\net5.0\BackendEvaluationStageOne.deps.json
+C:\Users\SEBASTIAN ROMERO\LeanTech\Backend Training\Projects\BackendEvaluationStageOne\bin\Debug\net5.0\BackendEvaluationStageOne.runtimeconfig.json
+C:\Users\SEBASTIAN ROMERO\LeanTech\Backend Training\Projects\BackendEvaluationStageOne\bin\Debug\net5.0\BackendEvaluationStageOne.runtimeconfig.dev.json
+C:\Users\SEBASTIAN ROMERO\LeanTech\Backend Training\Projects\BackendEvaluationStageOne\bin\Debug\net5.0\BackendEvaluationStageOne.dll
+C:\Users\SEBASTIAN ROMERO\LeanTech\Backend Training\Projects\BackendEvaluationStageOne\bin\Debug\net5.0\BackendEvaluationStageOne.pdb
+C:\Users\SEBASTIAN ROMERO\LeanTech\Backend Training\Projects\BackendEvaluationStageOne\obj\Debug\net5.0\BackendEvaluationStageOne.csproj.AssemblyReference.cache
+C:\Users\SEBASTIAN ROMERO\LeanTech\Backend Training\Projects\BackendEvaluationStageOne\obj\Debug\net5.0\BackendEvaluationStageOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEBASTIAN ROMERO\LeanTech\Backend Training\Projects\BackendEvaluationStageOne\obj\Debug\net5.0\BackendEvaluationStageOne.AssemblyInfoInputs.cache
+C:\Users\SEBASTIAN ROMERO\LeanTech\Backend Training\Projects\BackendEvaluationStageOne\obj\Debug\net5.0\BackendEvaluationStageOne.AssemblyInfo.cs
+C:\Users\SEBASTIAN ROMERO\LeanTech\Backend Training\Projects\BackendEvaluationStageOne\obj\Debug\net5.0\BackendEvaluationStageOne.csproj.CoreCompileInputs.cache
+C:\Users\SEBASTIAN ROMERO\LeanTech\Backend Training\Projects\BackendEvaluationStageOne\obj\Debug\net5.0\BackendEvaluationStageOne.dll
+C:\Users\SEBASTIAN ROMERO\LeanTech\Backend Training\Projects\BackendEvaluationStageOne\obj\Debug\net5.0\refint\BackendEvaluationStageOne.dll
+C:\Users\SEBASTIAN ROMERO\LeanTech\Backend Training\Projects\BackendEvaluationStageOne\obj\Debug\net5.0\BackendEvaluationStageOne.pdb
+C:\Users\SEBASTIAN ROMERO\LeanTech\Backend Training\Projects\BackendEvaluationStageOne\obj\Debug\net5.0\BackendEvaluationStageOne.genruntimeconfig.cache
+C:\Users\SEBASTIAN ROMERO\LeanTech\Backend Training\Projects\BackendEvaluationStageOne\obj\Debug\net5.0\ref\BackendEvaluationStageOne.dll
